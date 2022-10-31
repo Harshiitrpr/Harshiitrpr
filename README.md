@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Harsh
+- 👀 I’m interested in learning different domains of computer science
+- 🌱 I’m currently learning how to make a Github profile readme :)
+- 💞️ I’m looking to collaborate on building a software or anything which sounds fun
+- 📫 Reach me by linkedin https://www.linkedin.com/in/harshwardhankumar
