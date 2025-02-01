@@ -12,7 +12,7 @@
 - **Programming Languages**: Java, Python, C/C++, TypeScript, C#
 - **Frontend Development**: React.js, Redux, Express.js, HTML5, CSS, TypeScript, Fluent UI
 - **Backend Technologies**: Java, .NET, C#, Node.js
-- **Databases**: SQL, Cosmos DB, KQL
+- **Databases**: SQL, MongoDB, Cosmos DB, KQL
 - **Cloud & DevOps**: Microsoft Azure, Azure DevOps
 - **Tools & Other**: Git, Docker, Unit Testing, End-to-End Testing (Jest, Cypress), Distributed Computing
 
